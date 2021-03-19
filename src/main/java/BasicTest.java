@@ -31,7 +31,7 @@ public class BasicTest {
 	WebElement country = driver.findElement(By.xpath("//select[@id='Form_submitForm_Country']"));
 	selectdropdown(country,"Cuba");
 		
-		}
+}
 	
 
 	public static void selectdropdown(WebElement el , String value)
