@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-16T15:48:50 IST" name="Default suite" finished-at="2021-04-16T15:49:06 IST" duration-ms="15929">
+  <suite started-at="2021-04-21T13:28:58 IST" name="Default suite" finished-at="2021-04-21T13:29:12 IST" duration-ms="14201">
     <groups>
     </groups>
-    <test started-at="2021-04-16T15:48:50 IST" name="Default test" finished-at="2021-04-16T15:49:06 IST" duration-ms="15929">
+    <test started-at="2021-04-21T13:28:58 IST" name="Default test" finished-at="2021-04-21T13:29:12 IST" duration-ms="14201">
       <class name="testng">
-        <test-method signature="Login()[pri:0, instance:testng@61001b64]" started-at="2021-04-16T15:48:50 IST" name="Login" finished-at="2021-04-16T15:49:06 IST" duration-ms="15579" status="PASS">
+        <test-method signature="Login()[pri:0, instance:testng@61001b64]" started-at="2021-04-21T13:28:58 IST" name="Login" finished-at="2021-04-21T13:29:12 IST" duration-ms="13881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testng@61001b64]" started-at="2021-04-16T15:49:06 IST" name="teardown" finished-at="2021-04-16T15:49:06 IST" duration-ms="229" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testng@61001b64]" started-at="2021-04-21T13:29:12 IST" name="teardown" finished-at="2021-04-21T13:29:12 IST" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
